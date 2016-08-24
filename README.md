@@ -1,6 +1,6 @@
 # Smoove Chat Assistant
 
-![smoove](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/402/348/datas/gallery.jpg)
+![smoove](http://i.imgur.com/aUnNgx2.png)
 
 A program to help you improve your communication by learning more about others using text analysis.
 
