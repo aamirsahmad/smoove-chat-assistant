@@ -1,0 +1,28 @@
+{
+  "name": "smove-chat-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "angular-chart.js": "^1.0.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.5.9",
+    "twit": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamirsahmad/smoove-chat-assistant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aamirsahmad/smoove-chat-assistant/issues"
+  },
+  "homepage": "https:/github.com/aamirsahmad/smoove-chat-assistant#readme"
+}

@@ -1,0 +1,122 @@
+/* 
+Potential Colors
+	background pink/red #ef9a9a, white
+	background grey #37474f
+	cherry red #c62828
+	card panel pink #ffcdd2
+	button pink #e57373
+	text black
+*/
+
+/*
+Current Colors
+	background blue grey #37474f
+	background white white
+	others blue #2196f3
+
+*/
+
+/* Backgrounds */
+body {
+	background-color: #37474f;
+}
+#background {
+	background-color: white;
+	margin-top: 5%;
+}
+
+/* Fonts */
+html {
+	font-family: Verdana;
+}
+#title {
+	/* Needs https://fonts.googleapis.com/css?family=Dancing+Script */
+	font-family: 'Dancing Script', cursive;
+	font-size: 800%;
+	color: #37474f;
+}
+
+/* MJ Silhouette */
+#mj {
+	height: 250px;
+	margin: 2.5%;
+}
+
+/* Progress Bar */
+#progressStatic {
+	background-color: white;
+	margin-bottom: 2.5%;
+}
+#progressDynamic {
+	background-color: #2196f3;
+}
+
+/* Text Card Panels, same color */
+#submitBtn {
+	background-color: #2196f3;
+}
+#jokes div {
+	background-color: #2196f3;
+	color: white;
+	padding: 5px;
+}
+.row .center-align div {
+	background-color: #2196f3;
+	color: white;
+}
+#collection div {
+	padding: 0;
+}
+
+#collection div a span.news-org{
+	font-weight: lighter;
+}
+
+/* Gifs*/
+#gifs div {
+	background-color: #2196f3;
+	color: white;
+	padding: 5px;
+}
+
+h3#subtitle {
+	color: #888888;
+}
+
+/* Input Field */
+/* label focus color */
+.input-field input[type=text]:focus + label {
+	color: #000;
+}
+/* label underline focus color */
+.input-field input[type=text]:focus {
+	 border-bottom: 1px solid #000;
+	 box-shadow: 0 1px 0 0 #000;
+}
+.input-field #textarea1:focus + label {
+	color: #000;
+}
+/* label underline focus color */
+.input-field #textarea1:focus {
+	 border-bottom: 1px solid #000;
+	 box-shadow: 0 1px 0 0 #000;
+}
+ /* icon prefix focus color */
+.input-field .prefix.active {
+	 color: #000;
+}
+
+/* Gifs */
+#gifs img {
+	width: 30%;
+	padding: 1%;
+	margin: 1%;
+}
+
+/* News List */
+#collection div a.collection-item {
+	color: black;
+}
+.collection a.collection-item:not(.active):hover {
+	background-color: #2196f3;
+}
